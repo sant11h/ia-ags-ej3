@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IA.AGS.EJ3", "IA.AGS.EJ3\IA.AGS.EJ3.csproj", "{EBA4C7B4-0FED-4298-8C65-24DEA5355DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA4C7B4-0FED-4298-8C65-24DEA5355DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA4C7B4-0FED-4298-8C65-24DEA5355DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA4C7B4-0FED-4298-8C65-24DEA5355DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA4C7B4-0FED-4298-8C65-24DEA5355DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF5BD4D-1F08-4670-847F-CBBB60D476DA}
+	EndGlobalSection
+EndGlobal
